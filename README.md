@@ -1,0 +1,2 @@
+# gold-yonetim
+yönetim içerigidir.
